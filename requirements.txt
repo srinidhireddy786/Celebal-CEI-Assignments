@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+cohere
+pinecone
+python-dotenv
+PyPDF2
+pypdf
+streamlit
+cohere
+pinecone
+PyPDF2
+langchain-text-splitters
+python-dotenv
